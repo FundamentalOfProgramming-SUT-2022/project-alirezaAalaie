@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1675541303 source:d:\aa\ce file\start\bp\project1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/stat.h>
+	<unistd.h>
+	<dirent.h>
+
